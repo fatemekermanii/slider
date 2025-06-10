@@ -3,7 +3,7 @@
 **If you want to have a modern site, use this hover example..**
 
 
-- [Demo Project](https://fatemekermanii.github.io/slider/)
+- [Demo Project](https://fatemekermanii.github.io/slider/index-grow.html)
 
 - Developed by fateme kermani
 
